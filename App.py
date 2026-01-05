@@ -9,4 +9,4 @@ else:
     st.write(f"This student got a {chosen}.")
 
 #https://gradepracticeapp-lzglethe92fzhzgbjysccz.streamlit.app/
-#above is the link to the webapp
+#above is the link to the website/app
