@@ -7,3 +7,5 @@ if chosen == "A":
     st.write(f"This student got an {chosen}.")
 else:
     st.write(f"This student got a {chosen}.")
+
+#https://gradepracticeapp-lzglethe92fzhzgbjysccz.streamlit.app/
